@@ -1,5 +1,5 @@
 const TabButtons = document.querySelectorAll('.design-list__item')
-const tabDescriptions = document.querySelectorAll('.design-descr')
+const tabDescriptions = document.querySelectorAll('.design__descr')
 const tabImages = document.querySelectorAll('.design-images')
 
 const changeContent = (array, value) => {
